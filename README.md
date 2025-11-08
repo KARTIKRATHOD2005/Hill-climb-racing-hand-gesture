@@ -23,11 +23,11 @@ Before running this project, ensure you have the following installed:
 ### Steps to Run the Project: 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/dondanu/hand-gesture-game.git
+   git clone https://github.com/KARTIKRATHOD2005/Hill-climb-racing-hand-gesture.git
 
 2. Navigate to the project directory:
    ```bash
-   cd hand-gesture-game
+   cd Hill-climb-racing-hand-gesture
 
 3. Install the necessary Python dependencies:
    ```bash
@@ -35,7 +35,7 @@ Before running this project, ensure you have the following installed:
 
 4. Run the game:
    ```bash
-   python game.py
+   python main.py
 
 
 
@@ -45,4 +45,5 @@ Before running this project, ensure you have the following installed:
 Shows the gameplay where hand gestures control the car.
 
 About the Game
+
 This game combines hand gesture controls with classic gameplay for a unique and fun experience. It uses MediaPipe for hand gesture detection and simulates keyboard controls using the pynput library, allowing players to control the game without touching any keys.
