@@ -29,11 +29,7 @@ Before running this project, ensure you have the following installed:
    ```bash
    cd Hill-climb-racing-hand-gesture
 
-3. Install the necessary Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-
-4. Run the game:
+3. Run the game:
    ```bash
    python main.py
 
@@ -47,3 +43,4 @@ Shows the gameplay where hand gestures control the car.
 About the Game
 
 This game combines hand gesture controls with classic gameplay for a unique and fun experience. It uses MediaPipe for hand gesture detection and simulates keyboard controls using the pynput library, allowing players to control the game without touching any keys.
+
